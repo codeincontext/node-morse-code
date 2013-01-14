@@ -1,0 +1,30 @@
+{
+  "name": "morse-code",
+  "version": "0.1.0",
+  "description": "A morse code input library",
+  "main": "morse-code.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.6.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R spec test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skattyadz/node-morse-code"
+  },
+  "bugs": {
+    "url": "https://github.com/skattyadz/node-morse-code/issues"
+  },
+  "keywords": [
+    "morse",
+    "code",
+    "morse code",
+    "input"
+  ],
+  "author": "Adam Howard",
+  "license": "BSD",
+  "readmeFilename": "readme.md"
+}
